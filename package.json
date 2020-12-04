@@ -2,7 +2,7 @@
   "name": "quizapp",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://gourav310.github.io/quizApp",
+  "homepage": "http://gourav310.github.io/quizApp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.1",
@@ -17,8 +17,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
