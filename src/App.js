@@ -18,7 +18,7 @@ class App extends React.Component{
   };
    temp=[0,0,0,0,0,0,0,0,0,0];
   shuffle(arra1) {
-   var ctr = arra1.length, temp, index;
+   let ctr = arra1.length, temp, index;
    // console.log("work here")
   // While there are elements in the array
     while (ctr > 0) {
